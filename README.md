@@ -45,6 +45,29 @@ KNN, Decision Tree
  
 Output variable (based on sensory data):
 
-* Quality (score between 0 and 10)
+* quality (score between 0 and 10)
   
+## DETAILED DESCRIPTION OF IMPORTANT FEATURES
+
+
+* Fixed acidity
+
+  Most acids involved with wine or fixed or nonvolatile (do not evaporate readily).
  
+* Volatile acidity
+
+  The amount of acetic acid in wine, which at too high of levels can lead to an 
+  unpleasant, vinegar taste.
+
+* Citric acid
+
+  Found in small quantities, citric acid can add 'freshness' and flavor to wines.
+
+* Residual sugar
+  
+  The amount of sugar remaining after fermentation stops, it's rare to find wines 
+  with less than 1 gram/liter.
+
+* Chlorides
+
+  The amount of salt in the wine .
