@@ -18,6 +18,9 @@ KNN, Decision Tree
 * 96%
 * 89%
 
+![Wine-Glass-720x450](https://user-images.githubusercontent.com/47673623/93524363-06816800-f952-11ea-867b-897651079501.jpg)
+
+
 ## DATASET INFORMATION 
 
  * COLUMNS :-
